@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+
+.description{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    color: black;
+    text-decoration: none;
+}

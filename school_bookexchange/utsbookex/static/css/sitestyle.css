@@ -1,0 +1,60 @@
+#heading {
+    font-family: antic-didone;
+    font-style: normal;
+    font-weight: 400;
+    font-size: xx-small;
+    margin-top: 0px;
+}
+.heading {
+    margin-right: 162.5px;
+    margin-left: 217.5px;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    width: auto;
+    height: auto;
+    display: block;
+}
+.lineunderheading {
+    margin-top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.headingg {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-bottom: -500px;
+}
+.header {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-width: medium;
+    background-size: cover;
+    text-align: center;
+}
+.images {
+    margin-left: auto;
+}
+.textbox {
+    margin-left: auto;
+    display: grid;
+    background-color: #96AC9D;
+    width: 297px;
+    height: 297px;
+}
+.headr {
+    text-align: left;
+    font-family: "Mongolian Baiti";
+    letter-spacing: 0.2em;
+    color: #FFFFFF;
+    font-weight: lighter;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    background-color: #96AC9D;
+    background-size: auto auto;
+}

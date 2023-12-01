@@ -1,0 +1,96 @@
+@charset "utf-8";
+/* CSS Document */
+.top{
+    background: white;
+    top: 0;
+    width: auto;
+    height: auto;
+		}
+		.grade_links{
+    text-align: center;
+	display:block;
+		}
+.search-container{
+    background-color: none;
+    border: 0;
+    grid-area: overlap2;
+    margin-right: auto;
+    margin-top: auto;
+    text-align: center;
+    margin-left: auto;
+    margin-bottom: auto;
+    height: 29px;
+    width: 189px;
+    border-radius: 20px;
+		}
+.searchtext{
+    border-width: 0px;
+    text-align: left;
+    margin-top: auto;
+    margin-bottom: auto;
+    align-content: center;
+    background-color: #FFFFFF;
+    width: 200px;
+    height: 30px;
+    border-radius: 20px;
+    text-transform: capitalize;
+    text-indent: 12px;
+    font-family: antic-didone;
+    font-style: bold;
+    font-weight: 600;
+    letter-spacing: 3px;
+		}
+.logo{
+    color: #96AC9D;
+    font-size: x-large;
+    margin-top: 25px;
+    margin-bottom: 50px;
+    letter-spacing: 6px;
+    font-family: "Mongolian Baiti";
+    height: 0px;
+    background-color: #FFFFFF;
+    text-align: center;
+		}
+.logo:hover{
+	cursor: pointer;
+}
+
+
+.logo a {
+
+    text-decoration: none;
+    color: #96AC9D;
+    font-size: x-large;
+    margin-top: 25px;
+    margin-bottom: 50px;
+    letter-spacing: 6px;
+    font-family: "Mongolian Baiti";
+    height: 0px;
+    background-color: #FFFFFF;
+    text-align: center;
+}
+.topnav {
+    overflow: hidden;
+    background-color: #white;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 80px;
+    font-family: 'Montserrat', sans-serif;
+}
+.topnav a {
+    float: none;
+    color: #D28E74;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: large;
+    margin-bottom: 10px;
+    font-family: 'Montserrat', sans-serif;
+}
+.topnav a:hover {
+
+	transition: 0.3s;
+    color:#C36643;
+    font-size: large;
+}
